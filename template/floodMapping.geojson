@@ -80,6 +80,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Time (UTC)": "20170901T1607",
+        "Description": "Not Flooded",
+        "Url": "None",
+        "Comments": "Test by Kenny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59525966644287,
+          29.83375697924988
+        ]
+      }
     }
   ]
 }
