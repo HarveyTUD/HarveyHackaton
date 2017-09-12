@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime_actual (UTC)": "20170801T0822",
+        "Datetime_posted (UTC)": "20170805T0822",
+        "Water_depth (m)": 1,
+        "Reported_damage": "flooded house",
+        "Type": "residence/automobile/industry/roadway/bridge/business/hospital/critical_infrastructure",
+        "Source": "individual/FEMA/USGS/HCOEM/HCFCD/media",
+        "Quality": "estimated/modeled/measured",
+        "Description": "Blablabla",
+        "Link": "www.url.com",
+        "Notes": "Blablabla",
+        "Initials": "XY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86968994140624,
+          29.578234494739206
+        ]
+      }
+    }
+  ]
+}
