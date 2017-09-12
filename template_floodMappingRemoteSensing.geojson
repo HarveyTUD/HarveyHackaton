@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170901,
+        "ImageSource": "NOAA",
+        "PolygonType": "flood/noflood/other",
+        "Description": "Blabla",
+        "UserName": "YourName",
+        "Comments": "NA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.06296730041504,
+              30.05208243993084
+            ],
+            [
+              -94.06082153320312,
+              30.043018338299383
+            ],
+            [
+              -94.05301094055176,
+              30.042349642213367
+            ],
+            [
+              -94.05301094055176,
+              30.053419696180185
+            ],
+            [
+              -94.06296730041504,
+              30.05208243993084
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
