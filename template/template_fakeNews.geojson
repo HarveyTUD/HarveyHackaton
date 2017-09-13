@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": "20170801T0822",
+        "Category": "cat",
+        "Message": "I love you",
+        "Like": 1,
+        "Love": 1,
+        "Haha": 1,
+        "Wow": 1,
+        "Sad": 1,
+        "Angry": 1,
+        "Attitude": "Debunk",
+        "Account": "Unverified",
+        "Type": "media company",
+        "Goal": "informative",
+        "Share": 0,
+        "Comments": 0,
+        "Link": "www.url.com",
+        "Url": "www.url.com",
+        "Notes": "Blablabla",
+        "Initials": "XY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86968994140624,
+          29.578234494739206
+        ]
+      }
+    }
+  ]
+}
