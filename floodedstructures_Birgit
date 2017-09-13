@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170901,
+        "ImageSource": "NOAA",
+        "PolygonType": "flood/noflood/other",
+        "Description": "Blabla",
+        "UserName": "YourName",
+        "Comments": "NA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.06296730041504,
+              30.05208243993084
+            ],
+            [
+              -94.06082153320312,
+              30.043018338299383
+            ],
+            [
+              -94.05301094055176,
+              30.042349642213367
+            ],
+            [
+              -94.05301094055176,
+              30.053419696180185
+            ],
+            [
+              -94.06296730041504,
+              30.05208243993084
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": "20170801T0822",
+        "BuildingType": "masonary/vinyl/wood/mobile/stucco",
+        "NoStories": 1,
+        "Elevation (m)": 5,
+        "Source": "www.url.com",
+        "Notes": "Blablabla",
+        "Initials": "XY",
+        "ImageDate (UTC)": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86968994140624,
+          29.578234494739206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Temple",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Concrete",
+        "NoStories": 2,
+        "Elevation (m)": 9,
+        "Source": "streetview",
+        "Notes": "",
+        "Initials": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66861271858214,
+          29.815076144037626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Factory",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel/Masonry",
+        "NoStories": 1,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66889703273773,
+          29.81429420934193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Unknown",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 9,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66873073577881,
+          29.816095442584317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel/Masonry",
+        "NoStories": 1,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66849201917647,
+          29.813721717562203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66747546195984,
+          29.81596977620182
+        ]
+      }
+    }
+  ]
+}
