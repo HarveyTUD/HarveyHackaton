@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": "20170801T0822",
+        "BuildingType": "masonary/vinyl/wood/mobile/stucco",
+        "NoStories": 1,
+        "Elevation (m)": 5,
+        "Source": "www.url.com",
+        "Notes": "Blablabla",
+        "Initials": "XY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86968994140624,
+          29.578234494739206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": "20170827T0700",
+        "BuildingType": "apartement",
+        "NoStories": 11,
+        "Elevation (m)": "",
+        "Source": "www.nytimes.com",
+        "Notes": "flood",
+        "Initials": "#1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.08892822265625,
+              28.064709657296667
+            ],
+            [
+              -97.22351074218749,
+              27.836647367576422
+            ],
+            [
+              -97.19329833984374,
+              27.824502916144823
+            ],
+            [
+              -97.042236328125,
+              28.045318867211485
+            ],
+            [
+              -97.08892822265625,
+              28.064709657296667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": 2017,
+        "BuildingType": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03674316406249,
+          27.89006680192903
+        ]
+      }
+    }
+  ]
+}
