@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": "20170801T0822",
+        "BuildingType": "masonary/vinyl/wood/mobile/stucco",
+        "NoStories": 1,
+        "Elevation (m)": 5,
+        "Source": "www.url.com",
+        "Notes": "Blablabla",
+        "Initials": "XY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86968994140624,
+          29.578234494739206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.08892822265625,
+              28.064709657296667
+            ],
+            [
+              -97.22351074218749,
+              27.836647367576422
+            ],
+            [
+              -97.19329833984374,
+              27.824502916144823
+            ],
+            [
+              -97.042236328125,
+              28.045318867211485
+            ],
+            [
+              -97.08892822265625,
+              28.064709657296667
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
