@@ -134,7 +134,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Datetime (UTC)": 20170831,
-        "Elevation (m)": 6
+        "Elevation (m)": 6,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -169,7 +170,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -204,7 +206,8 @@
       "properties": {
         "BuildingType": "Soccer field",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -239,7 +242,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -274,7 +278,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -309,7 +314,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -344,7 +350,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -379,7 +386,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -414,7 +422,8 @@
       "properties": {
         "BuildingType": "Masonary",
         "Elevation (m)": 6,
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -449,7 +458,8 @@
       "properties": {
         "Elevation (m)": 6,
         "BuildingType": "Masonary",
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -483,7 +493,8 @@
       "type": "Feature",
       "properties": {
         "BuildingType": "Bridge!",
-        "Datetime (UTC)": 20170831
+        "Datetime (UTC)": 20170831,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -515,7 +526,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "BuildingType": "Masonary",
+        "Elevation (m)": 6,
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -546,7 +562,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "BuildingType": "Masonary",
+        "Elevation (m)": 6,
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -580,7 +601,8 @@
       "properties": {
         "BuildingType": "Masonary/wood",
         "Datetime (UTC)": 20170831,
-        "Elevation (m)": 6
+        "Elevation (m)": 6,
+        "Initials": "HB"
       },
       "geometry": {
         "type": "Polygon",
@@ -614,7 +636,9 @@
       "type": "Feature",
       "properties": {
         "Elevation (m)": 4,
-        "BuildingType": "Masonary"
+        "BuildingType": "Masonary",
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
       },
       "geometry": {
         "type": "Polygon",
@@ -648,7 +672,9 @@
       "type": "Feature",
       "properties": {
         "Elevation (m)": 4,
-        "BuildingType": "Masonary"
+        "BuildingType": "Masonary",
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
       },
       "geometry": {
         "type": "Polygon",
@@ -682,7 +708,9 @@
       "type": "Feature",
       "properties": {
         "BuildingType": "Masonary",
-        "Elevation (m)": 6
+        "Elevation (m)": 6,
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
       },
       "geometry": {
         "type": "Polygon",
@@ -716,7 +744,9 @@
       "type": "Feature",
       "properties": {
         "BuildingType": "Masonary",
-        "Elevation (m)": 6
+        "Elevation (m)": 6,
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
       },
       "geometry": {
         "type": "Polygon",
@@ -750,7 +780,9 @@
       "type": "Feature",
       "properties": {
         "BuildingType": "Masonary",
-        "Elevation (m)": 8
+        "Elevation (m)": 8,
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
       },
       "geometry": {
         "type": "Polygon",
@@ -775,6 +807,78 @@
             [
               -95.60838103294373,
               29.76323181715046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingType": "Wood",
+        "Elevation (m)": 5,
+        "Initials": "HB",
+        "Datetime (UTC)": 20170831
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.60834884643555,
+              29.76254028493714
+            ],
+            [
+              -95.60801893472672,
+              29.76254028493714
+            ],
+            [
+              -95.60801893472672,
+              29.762950082380428
+            ],
+            [
+              -95.60834884643555,
+              29.762950082380428
+            ],
+            [
+              -95.60834884643555,
+              29.76254028493714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingType": "Masonary",
+        "Datetime (UTC)": 20170831,
+        "Elevation (m)": 6,
+        "Initials": "HB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.60921788215637,
+              29.762500702140798
+            ],
+            [
+              -95.60856878757477,
+              29.762500702140798
+            ],
+            [
+              -95.60856878757477,
+              29.762915156527313
+            ],
+            [
+              -95.60921788215637,
+              29.762915156527313
+            ],
+            [
+              -95.60921788215637,
+              29.762500702140798
             ]
           ]
         ]
