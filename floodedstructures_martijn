@@ -180,6 +180,402 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": "0830",
+        "ImageSource": "noaa",
+        "PolygonType": "Flooded Area (2)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.59783458709717,
+              29.77022603629688
+            ],
+            [
+              -95.59779167175293,
+              29.75327515571299
+            ],
+            [
+              -95.59234142303467,
+              29.751337729639804
+            ],
+            [
+              -95.58650493621826,
+              29.74750002514238
+            ],
+            [
+              -95.58568954467773,
+              29.75230644735732
+            ],
+            [
+              -95.58980941772461,
+              29.7610989953885
+            ],
+            [
+              -95.58998107910156,
+              29.77115732024738
+            ],
+            [
+              -95.5918264389038,
+              29.770039778467737
+            ],
+            [
+              -95.59783458709717,
+              29.77022603629688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": "0830",
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59175938367844,
+          29.75190359232821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59196591377257,
+          29.75203166780203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59216439723969,
+          29.752152757190423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59237897396088,
+          29.7522272736644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "vnoaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59256672859192,
+          29.7523763064462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59277594089508,
+          29.75246013728858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59151530265808,
+          29.75221330182976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59182107448578,
+          29.752394935528336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59136509895325,
+          29.752469451822293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5912309885025,
+          29.752702314883848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59118270874022,
+          29.7530283222612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5911934375763,
+          29.753289127399647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5962547659874,
+          29.75335432857823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59657394886017,
+          29.75330309908434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59719890356064,
+          29.753452130266556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59725254774094,
+          29.753675676624443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59729278087616,
+          29.753852650470833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59725791215897,
+          29.754041266989454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5972820520401,
+          29.75426248344173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59726327657698,
+          29.754434799076815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59733033180237,
+          29.75461410016636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59736251831055,
+          29.755056530054066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "noaa",
+        "PolygonType": "not flooded house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.59724450111388,
+          29.75526377285609
+        ]
+      }
     }
   ]
 }
