@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 2017090,
+        "ImageSource": "NOAA",
+        "PolygonType": "flood/noflood/other",
+        "Description": "Blabla",
+        "UserName": "YourName",
+        "Comments": "NA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.06296730041504,
+              30.05208243993084
+            ],
+            [
+              -94.06082153320312,
+              30.043018338299383
+            ],
+            [
+              -94.05301094055176,
+              30.042349642213367
+            ],
+            [
+              -94.05301094055176,
+              30.053419696180185
+            ],
+            [
+              -94.06296730041504,
+              30.05208243993084
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": "20170801T0822",
+        "BuildingType": "masonary/vinyl/wood/mobile/stucco",
+        "NoStories": 1,
+        "Elevation (m)": 5,
+        "Source": "www.url.com",
+        "Notes": "Blablabla",
+        "Initials": "XY",
+        "ImageDate (UTC)": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.86968994140624,
+          29.578234494739206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flood"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.74436902999878,
+              29.7274172138536
+            ],
+            [
+              -95.74431270360947,
+              29.72756162508554
+            ],
+            [
+              -95.74452459812164,
+              29.727603550888123
+            ],
+            [
+              -95.7446077466011,
+              29.72747078578647
+            ],
+            [
+              -95.74436902999878,
+              29.7274172138536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flood"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.74436366558075,
+              29.7274172138536
+            ],
+            [
+              -95.74431270360947,
+              29.727563954297256
+            ],
+            [
+              -95.74455142021178,
+              29.727598892466496
+            ],
+            [
+              -95.74461579322815,
+              29.72746845657259
+            ],
+            [
+              -95.74436366558075,
+              29.7274172138536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": "0830",
+        "ImageSource": "noaa",
+        "PolygonType": "flooded neighbourhood"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.73730945587158,
+              29.738408177804914
+            ],
+            [
+              -95.74194431304932,
+              29.734458184015114
+            ],
+            [
+              -95.74984073638916,
+              29.729911772209377
+            ],
+            [
+              -95.74610710144043,
+              29.72305449914335
+            ],
+            [
+              -95.74044227600096,
+              29.72715401220272
+            ],
+            [
+              -95.73705196380615,
+              29.725365154372394
+            ],
+            [
+              -95.73460578918457,
+              29.727936627475263
+            ],
+            [
+              -95.73730945587158,
+              29.738408177804914
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
