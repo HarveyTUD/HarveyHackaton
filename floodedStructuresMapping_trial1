@@ -22,7 +22,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Datetime (UTC)": "20170827T0700",
+        "BuildingType": "apartement",
+        "NoStories": 11,
+        "Elevation (m)": "",
+        "Source": "www.nytimes.com",
+        "Notes": "flood",
+        "Initials": "#1"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -48,6 +56,20 @@
               28.064709657296667
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Datetime (UTC)": 2017,
+        "BuildingType": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03674316406249,
+          27.89006680192903
         ]
       }
     }
