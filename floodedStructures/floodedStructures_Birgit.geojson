@@ -175,6 +175,331 @@
           29.81596977620182
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66620945930481,
+          29.816337466283358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": "1 ",
+        "Elevation (m)": 3,
+        "Source": "streetview",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.665522813797,
+          29.816211800205046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building ",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66575884819031,
+          29.81586272693656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 9,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66448748111725,
+          29.81554623278635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "unknown",
+        "NoStories": "null",
+        "Elevation (m)": "null",
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6648200750351,
+          29.81739864020138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "unknown",
+        "NoStories": "null",
+        "Elevation (m)": "null",
+        "Source": "streetview",
+        "Notes": "",
+        "Initials": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6644606590271,
+          29.817682548857277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "House",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Wood",
+        "NoStories": 2,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66521167755127,
+          29.81752430478788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 2,
+        "Elevation (m)": 9,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66541820764542,
+          29.81752430478788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Garage",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66521167755127,
+          29.81778959617397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66497027873993,
+          29.817696511557262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "House",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Wood",
+        "NoStories": 2,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66495418548584,
+          29.81813633560845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "House",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Wood",
+        "NoStories": 2,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66446870565414,
+          29.818289924503794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "Business",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Steel",
+        "NoStories": 1,
+        "Elevation (m)": 9,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66519021987915,
+          29.819306863205828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ImageDate (UTC)": 20170830,
+        "ImageSource": "NOAA",
+        "PolygonType": "flooded building",
+        "Description": "House",
+        "UserName": "",
+        "Comments": "",
+        "Datetime (UTC)": "",
+        "BuildingType": "Masonry",
+        "NoStories": 2,
+        "Elevation (m)": 6,
+        "Source": "streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.66567838191986,
+          29.819262648694774
+        ]
+      }
     }
   ]
 }
